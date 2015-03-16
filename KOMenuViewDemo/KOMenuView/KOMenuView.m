@@ -24,7 +24,6 @@ static const CGFloat expandHeight = 30.f;
 @property (weak, nonatomic)   UIView *placeView;
 
 @property (assign, nonatomic, getter=isExpandMenu) BOOL expandMenu;
-@property (assign, nonatomic) CGFloat animaDuration;
 @property (assign, nonatomic) CGFloat itemViewHeight;
 
 @end

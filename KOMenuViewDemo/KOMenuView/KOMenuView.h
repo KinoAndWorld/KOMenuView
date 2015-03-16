@@ -27,6 +27,8 @@ typedef void(^KOMenuframeChangeBlock)(CGRect destFrame);
 
 ///fold menu automatically when select item,default NO
 @property (assign, nonatomic) BOOL foldMenuWhenClickItem;
+///animation duration, default 0.25
+@property (assign, nonatomic) CGFloat animaDuration;
 
 
 @property (copy, nonatomic) KOMenuClickBlock clickHandle;

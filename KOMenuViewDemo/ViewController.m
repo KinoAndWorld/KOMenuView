@@ -27,7 +27,9 @@
                                 withClickByIndex:^(NSInteger itemIndex) {
                                     NSLog(@"itemIndex : %ld",(long)itemIndex);
                                 }];
-    _blurMenuView.foldMenuWhenClickItem = YES;
+    _blurMenuView.foldMenuWhenClickItem = YES;  ///fold menu automatically when select item,default NO
+    _blurMenuView.animaDuration = 0.3;          ///animation duration, default 0.25
+    
     
     
     [self.view addSubview:_blurMenuView];
