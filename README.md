@@ -35,6 +35,11 @@ _blurMenuView = [KOMenuView menuViewWithItem:@[@"Menu 01",@"Menu 02",@"Menu 03",
                                 NSLog(@"itemIndex : %ld",(long)itemIndex);
                             }];
 ```
+you can set other funtion if you want
+```
+_blurMenuView.foldMenuWhenClickItem = YES;   ///fold menu automatically when select item, default NO
+_blurMenuView.animaDuration = 0.3;          ///animation duration, default 0.25
+```
 
 
 ### License
