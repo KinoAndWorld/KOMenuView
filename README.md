@@ -4,7 +4,7 @@
 
 This is a simple Menu View On One's View Bottom.
 
-![Screenshot](https://cloud.githubusercontent.com/assets/1878740/5596864/2269a630-927f-11e4-8d3b-aa58ef0e3b8e.png) 
+![Screenshot](http://ww3.sinaimg.cn/large/6ff7b43ejw1eq7krl21p3g207g0dc4qq.gif) 
 
 ## Features
 
@@ -44,6 +44,9 @@ _blurMenuView = [KOMenuView menuViewWithItem:@[@"Menu 01",@"Menu 02",@"Menu 03",
 ### Author
 
 Kino
-Email: 992276678@qq.com/ kinoandworld@gmail.com
-Weibo: http://weibo.com/u/1878504510
+
+`Email: 992276678@qq.com/ kinoandworld@gmail.com`
+
+`Weibo: http://weibo.com/u/1878504510`
+
 contact me if had any quetion .
